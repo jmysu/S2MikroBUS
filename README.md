@@ -6,5 +6,5 @@ JimmyCraft Kits for ESP32S2 OTG w/ mikroBUS
 
 ----
 ## Project S2MikroBUS V0<br>
-ESP32S2 + mikroBUSx2 <br>
-<img src= "pic/V0/S2MikroBUS1125.png" width=240>
+ESP32S2 + mikroBUS <br>
+<img src= "pic/S2MikroBUS1125.gif" width=320>
