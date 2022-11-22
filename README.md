@@ -1,0 +1,2 @@
+# S2MikroBUS
+ESP32S2 USB OTG project
