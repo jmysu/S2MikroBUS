@@ -8,4 +8,6 @@ ESP32S2 + mikroBUS <br>
 <img src= "pic/S2MikroBUS1125.gif" width=320>
 
 
+---
+References:<br>
 [AiThinker ESP32S2 modules](https://docs.ai-thinker.com/en/esp32s2)
